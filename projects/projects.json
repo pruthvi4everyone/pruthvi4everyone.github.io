@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Supermarket Management System",
+    "desc": "Full-stack supermarket application using Spring Boot, React.js, and PostgreSQL for inventory and order management.",
+    "image": "supermarket",
+    "category": "Java",
+    "links": {
+      "view": "https://github.com/pruthvi4everyone/supermarket-management-system"
+    }
+  },
+  {
+    "name": "Loan Approval Prediction Platform",
+    "desc": "Loan eligibility system built with Spring Boot, React, and PostgreSQL, simulating real-world financial workflows.",
+    "image": "loan_approval",
+    "category": "Java",
+    "links": {
+      "view": "https://github.com/pruthvi4everyone/Loan_Prediction_system"
+    }
+  },
+  {
+    "name": "Personal Expense Tracker",
+    "desc": "Expense tracking app using Django and MongoDB with user login and category-based summaries.",
+    "image": "personalexpense",
+    "category": "Python/Django",
+    "links": {
+      "view": "https://github.com/pruthvi4everyone/personal-expense-tracker"
+    }
+  },
+  {
+    "name": "Cyberbullying Web App",
+    "desc": "NLP-based system built with FastAPI and React that detects cyberbullying in tweets and visualizes trends in PowerBI.",
+    "image": "cyberbullying",
+    "category": "AI/ML",
+    "links": {
+      "view": "http://github.com/pruthvi4everyone/Cyberbullying_Detection"
+    }
+  },
+  {
+    "name": "Helmet Violation Detection",
+    "desc": "YOLOv3-based real-time helmet violation detection system using OpenCV, TensorFlow, and Flask.",
+    "image": "helmetdetection",
+    "category": "AI/ML",
+    "links": {
+      "view": "https://github.com/pruthvi4everyone/Helmet_detection_OpenCV/tree/master"
+    }
+  }
+]
